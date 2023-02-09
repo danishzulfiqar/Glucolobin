@@ -2,7 +2,7 @@
 Glucolobin is a health ecosytem synchronized with IOT based medical products.We offer device management, data collection, processing and visualization for your data.Glucolobin enables device connectivity via industry standard IoT protocols. Our team is passionate about developing and delivering high-quality products that help people manage their health and well-being in a convenient and accessible way. We use advanced technology, such as the Internet of Things (IoT), to create devices that are easy to use and provide reliable and accurate results. Whether you are looking to monitor your health in an advanced way.
 
 ## [Click to View Site](https://glucolobin.netlify.app/login?#)
-### [View Live Demoo](https://www.dropbox.com/s/wmd0zv4jyhyc4dq/A0FD2629-6A84-431E-B2EE-8BB434E63EFBL0001.mov?dl=0)
+### [View Live Demo](https://www.dropbox.com/s/wmd0zv4jyhyc4dq/A0FD2629-6A84-431E-B2EE-8BB434E63EFBL0001.mov?dl=0)
 
 
 ## Dynamically Developed With
